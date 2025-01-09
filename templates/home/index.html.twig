@@ -1,0 +1,15 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Accueil{% endblock %}
+
+{% block body %}
+
+    <div class="container">
+        <h1>Bienvenue sur la page d'accueil</h1>
+    </div>
+
+    <p> Profil : {{ app.user.pseudo }} </p>
+    <p> Email : {{ app.user.email }} </p>
+    
+    
+{% endblock %}
