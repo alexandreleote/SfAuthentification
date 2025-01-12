@@ -79,5 +79,5 @@ en cours
 
 ___
 Exercice réalisé dans le cadre de la formation [Développeur Web et Web Mobile](https://elan-formation.fr/formation/19754) <br>
-📅 Date : 09/12/2024 - en cours <br>
+📅 Date : 09/12/2024<br>
 ✍️ Auteur : [Alexandre Leote](https://github.com/alexandreleote)
